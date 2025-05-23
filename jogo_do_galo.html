@@ -11,7 +11,13 @@
         <h1>Jogo do Galo</h1>
     </header>
 
-    <section>
+    <div id="menu-inicial">
+    <h2>Escolha o modo de jogo</h2>
+    <button onclick="iniciarJogo('x1')">1 Vs 1</button>
+    <button onclick="iniciarJogo('cpu')">1 Vs CPU</button>
+    </div>
+
+    <section id="tabuleiro" style="display: none;">
     <button class="casa" id="a1" onclick="marcar()">-</button>
     <button class="casa" id="a2" onclick="marcar()">-</button>
     <button class="casa" id="a3" onclick="marcar()">-</button>
