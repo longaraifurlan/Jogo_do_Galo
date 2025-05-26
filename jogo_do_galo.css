@@ -42,6 +42,33 @@ header, footer {
     background: #007c2a;
 }
 
+#escolher-peca {
+    background: rgba(255,255,255,0.9);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #00000088;
+    width: fit-content;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#escolher-peca button {
+    margin: 1rem;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    background: #0033cc;
+    color: white;
+    transition: background 0.3s;
+}
+
+#escolher-peca button:hover {
+    background: #001e80;
+}
+
+
 
 
 section {
