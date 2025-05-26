@@ -32,6 +32,7 @@ function marcar(event) {
     if (casa.textContent !== '-') return;
 
     casa.textContent = jogadorAtual;
+    casa.classList.add(jogadorAtual)
 
     if (window.modoDeJogo === 'cpu' && jogadorAtual === jogadorHumano) {
         jogadorAtual = jogadorCPU;
@@ -49,6 +50,7 @@ function jogadaCPU() {
 
     const escolha = livres[Math.floor(Math.random() * livres.length)];
     escolha.textContent = jogadorCPU;
+    escolha.classList.add(jogadorCPU);
 
     jogadorAtual = jogadorHumano;
 }

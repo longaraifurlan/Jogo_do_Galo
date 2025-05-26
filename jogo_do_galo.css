@@ -68,6 +68,18 @@ header, footer {
     background: #001e80;
 }
 
+.casa.X {
+    color: #009e3b;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.casa.O {
+    color: red;
+    font-weight: bold;
+    font-size: 80px;
+}
+
 
 
 
@@ -88,7 +100,7 @@ button.casa {
 }
 
 button {
-    background: rgba(134, 132, 132, 0.938);
+    background: rgba(39, 38, 38, 0.938);
     transition: background 0.3s ease-in-out, transform 0.2s;
 }
 
