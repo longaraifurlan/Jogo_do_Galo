@@ -39,7 +39,7 @@ header, footer {
 }
 
 #menu-inicial button:hover {
-    background: #007c2a;
+    background: #016121;
 }
 
 #escolher-peca {
@@ -59,13 +59,13 @@ header, footer {
     cursor: pointer;
     border: none;
     border-radius: 8px;
-    background: #0033cc;
+    background: #007c2a;
     color: white;
     transition: background 0.3s;
 }
 
 #escolher-peca button:hover {
-    background: #001e80;
+    background: #01550f;
 }
 
 .casa.X {
