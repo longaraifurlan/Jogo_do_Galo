@@ -128,8 +128,8 @@ function verificarResultado(jogador) {
 
 function mensagemVitoria(jogador) {
     return jogador === jogadorHumano
-        ? 'Você venceu! Parabéns!'
-        : (window.modoDeJogo === 'cpu' ? 'A CPU venceu. Tente novamente!' : `O jogador ${jogador} venceu!`);
+        ? 'Jogador 1🙋‍♂️ venceu! Parabéns!'
+        : (window.modoDeJogo === 'cpu' ? '🤖 venceu. Tente novamente!' : `Jogador 🙋‍♂️2 venceu! Parabéns!`);
 }
 
 
