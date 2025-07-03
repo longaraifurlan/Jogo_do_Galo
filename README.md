@@ -29,5 +29,6 @@ Este projeto foi criado com o objetivo de praticar habilidades em JavaScript, ma
 1. Clone o repositório:
    ```bash
    git clone https://github.com/longaraifurlan/Jogo_do_Galo.git
+   
 2. Abra o arquivo index.html no navegador.
 Ou, se preferir usar uma extensão como o Live Server (VS Code), clique com o botão direito em index.html > Open with Live Server.
