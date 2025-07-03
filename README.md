@@ -22,7 +22,8 @@ Este projeto foi criado com o objetivo de praticar habilidades em JavaScript, ma
 
 ## 📷 Demonstração
 
-(Adiciona aqui um **GIF** ou imagem do jogo rodando. Pode usar o site [Licecap](https://www.cockos.com/licecap/) ou gravar via OBS + converter.)
+![Jogo_do_Galo🐔](https://github.com/user-attachments/assets/8c3d061f-92c0-4a6d-9a15-ae4e4f26eaef)
+
 
 ## 🧑‍💻 Como executar
 
